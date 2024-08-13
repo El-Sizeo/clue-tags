@@ -7,17 +7,6 @@
 All Tob Roles have unique item IDs for each  step
 
 
-### [How To](docs/items/index.md)
-
-### Tags
-
-[Mage](tags/easy/item.yml)
-
-[Range](tags/medium/item.yml)
-
-[Melee](tags/hard/item.yml)
-
-
 ## Bank Tags
 
 Bank Tag Layouts and screenshots of recommended gear setups for all Roles
